@@ -40,7 +40,7 @@ This repository contains an implementation of the **Munchkin card game** in C++.
    make
    ```
 
-### Usage
+## Usage
 Run the game by executing:
 
 ```bash
@@ -58,10 +58,10 @@ Run the game by executing:
    }
 ```
 
-### Contributing
+## Contributing
 We welcome contributions! To contribute:
 
-### Fork the repository.
+## Fork the repository.
 
 Create a new branch for your feature or bug fix.
 
@@ -70,7 +70,7 @@ Commit your changes.
 Push to your fork and submit a pull request.
 
 
-### Contact
+## Contact
 For questions or suggestions, please contact:
 
 Gilian B.
