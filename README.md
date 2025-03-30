@@ -60,8 +60,7 @@ Run the game by executing:
 
 ## Contributing
 We welcome contributions! To contribute:
-
-## Fork the repository.
+ Fork the repository.
 
 Create a new branch for your feature or bug fix.
 
