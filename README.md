@@ -29,7 +29,8 @@ This repository contains an implementation of the **Munchkin card game** in C++.
 1. Clone the repository:
    ```bash
    git clone https://github.com/gilianb/Munchkin_game.git
-   cd Munchkin_game```
+   cd Munchkin_game
+   ```
 ### Build the project:
 
    ```bash
@@ -37,13 +38,14 @@ This repository contains an implementation of the **Munchkin card game** in C++.
    cd build
    cmake ..
    make
-```
+   ```
 
 ### Usage
 Run the game by executing:
 
 ```bash
-./munchkin_game```
+./munchkin_game
+```
 
 ### Example Gameplay
 ```cpp
@@ -53,7 +55,8 @@ Run the game by executing:
        std::vector<std::string> players = {"Alice", "Bob", "Charlie"};
        Game game(players);
        game.start();
-   }```
+   }
+```
 
 ### Contributing
 We welcome contributions! To contribute:
